@@ -1,0 +1,11 @@
+---
+title: "Everything You Should Know About Programming"
+subtitle: "From Beginner to Advanced"
+author : Aaron Lengyel
+abstract: "This is essentially a snapshot of everything you should seek to learn when trying to program. I don't go into the very fine details about implementations but you should at least be able to use this as a general resource for what certain things are and why they show up in certain languages. You will also be up to date on some modern practices that are important to know that you won't be taught when you do a short course on how to program."
+toc : true
+classoption: ["letterpaper", "twosided", "twocolumn", "egregdoesnotlikesansseriftitles"]
+geometry: "left=0.375in,right=0.375in,top=0.375in,bottom=0.375in,foot=0.25in,includefoot,heightrounded"
+header-includes:
+- \usepackage{tikz}
+---

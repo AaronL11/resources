@@ -1,0 +1,1 @@
+pandoc meta.yaml intro.md ai.md fsm.md nlp.md ml.md mlm.md nn.md nnarch.md gen.md metah.md -o "AI&ML.pdf"

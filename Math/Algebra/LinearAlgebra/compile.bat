@@ -1,0 +1,1 @@
+pandoc meta.yaml intro.md lineareq.md complexnumbers.md vectorspaces.md matrices.md spectraltheory.md vsadv.md matricesadv.md numlinalg.md -o LinearAlgebra.pdf

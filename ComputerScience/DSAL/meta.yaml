@@ -1,0 +1,11 @@
+---
+title: "Data Structures and Algorithms"
+subtitle: "All of them and how they work"
+author : Aaron Lengyel
+abstract: "This covers all the important data structures in computer science, as well as algorithms for working on them. This is very broad and covers a lot of topics in detail. It is meant to be used as a reference and learning material for those trying to understand this topic."
+toc : true
+classoption: ["letterpaper", "twosided", "twocolumn", "egregdoesnotlikesansseriftitles"]
+geometry: "left=0.375in,right=0.375in,top=0.375in,bottom=0.375in,foot=0.25in,includefoot,heightrounded"
+header-includes:
+- \usepackage{tikz}
+---

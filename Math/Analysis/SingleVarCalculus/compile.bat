@@ -1,0 +1,1 @@
+pandoc meta.yaml intro.md limits.md continuity.md differentiation.md integration.md -o Calculus.pdf

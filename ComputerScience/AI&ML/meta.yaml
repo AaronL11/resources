@@ -1,0 +1,11 @@
+---
+title: "Artifical Intelligence and Machine Learning"
+subtitle: "An in depth look at the field"
+author : Aaron Lengyel
+abstract: "These are a series of notes relating to machine learning and artificial intelligence. A lot of algorithms and approaches will be covered, as well as many different domains and techniques. This is not meant to be a complete guide but a helpful resource for those looking to learn more about implementing and using artificial intelligence to solve problems."
+toc : true
+classoption: ["letterpaper", "twosided", "twocolumn", "egregdoesnotlikesansseriftitles"]
+geometry: "left=0.375in,right=0.375in,top=0.375in,bottom=0.375in,foot=0.25in,includefoot,heightrounded"
+header-includes:
+- \usepackage{tikz}
+---

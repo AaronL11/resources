@@ -1,0 +1,1 @@
+pandoc meta.yaml intro.md partialdiff.md coordinate.md multipleintegration.md vectorcalc.md -o VectorCalc.pdf

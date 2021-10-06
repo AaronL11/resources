@@ -1,0 +1,11 @@
+---
+title: "Algorithms"
+subtitle: "An in depth look at the field"
+author : Aaron Lengyel
+abstract: ""
+toc : true
+classoption: ["letterpaper", "twosided", "twocolumn", "egregdoesnotlikesansseriftitles"]
+geometry: "left=0.375in,right=0.375in,top=0.375in,bottom=0.375in,foot=0.25in,includefoot,heightrounded"
+header-includes:
+- \usepackage{tikz}
+---

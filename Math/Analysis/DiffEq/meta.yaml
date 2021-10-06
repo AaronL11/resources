@@ -1,0 +1,9 @@
+---
+title: "Differential Equations"
+subtitle: "Complete Notes and Transcript"
+author : Aaron Lengyel
+abstract: "This is a combination of all of my understandings and findings in regards to Differential Equations. The explanations are mine, and these are meant to act as transcripts for the video series on analysis I will be producing. This covers everything from the basics to more advanced concepts near the end. There aren't any exercises, only examples and solutions.\nA **ton** is going to be covered in this series so don't be surprised if you do not capture or understand it all during one sitting. This is meant to be a small part of a vast comprehensive resource of a analysis. There *will* be mistakes (which I hope to rectify along the way)."
+toc : true
+classoption: ["letterpaper", "twosided", "twocolumn", "egregdoesnotlikesansseriftitles"]
+geometry: "left=0.375in,right=0.375in,top=0.375in,bottom=0.375in,foot=0.25in,includefoot,heightrounded"
+---
