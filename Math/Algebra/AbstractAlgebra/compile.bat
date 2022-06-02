@@ -1,0 +1,1 @@
+pandoc meta.yaml sets.md groups.md rings.md fields.md -o AbstractAlgebra.pdf

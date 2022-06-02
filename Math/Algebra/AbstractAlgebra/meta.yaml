@@ -1,0 +1,27 @@
+---
+title: Abstract Algebra
+subtitle: Complete Notes and Transcript
+author: Aaron Lengyel
+abstract: |
+    This is a beginners resource to the basic and fundamental
+    features of algebra.
+    The main objects covered in this section are the construction
+    of set, groups, rings, and fields (and everything in between).
+    
+    Part 2 focuses on expansions of these ideas.
+toc: true
+classoption: [
+  "letterpaper",
+  "twosided",
+  "twocolumn",
+  "egregdoesnotlikesansseriftitles"
+  ]
+geometry: |
+    left=0.375in,
+    right=0.375in,
+    top=0.375in,
+    bottom=0.375in,
+    foot=0.25in,
+    includefoot,
+    heightrounded
+---

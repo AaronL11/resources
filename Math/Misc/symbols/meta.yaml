@@ -1,0 +1,29 @@
+---
+title: Mathematical Symobls
+subtitle: |
+    A guide to the most common symbols
+    
+    used in higher mathematics
+author: Aaron Lengyel
+abstract: |
+    The following is a comprehensive list and explanation of
+    every common symbol and use of notation in higher mathematics.
+
+    This is meant to be a definitive resource, however there will
+    be mistakes.
+toc: true
+classoption: [
+  "letterpaper",
+  "twosided",
+  "twocolumn",
+  "egregdoesnotlikesansseriftitles"
+  ]
+geometry: |
+    left=0.375in,
+    right=0.375in,
+    top=0.375in,
+    bottom=0.375in,
+    foot=0.25in,
+    includefoot,
+    heightrounded
+---

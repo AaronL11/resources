@@ -1,0 +1,25 @@
+---
+title: Category Theory
+subtitle: An introductory look at category theory
+author: Aaron Lengyel
+abstract: |
+    This is a very brief introduction to Category Theory.
+
+    Notes taken in combination of the SUM-C's Category Theory
+    reading group.
+toc: true
+classoption: [
+  "letterpaper",
+  "twosided",
+  "twocolumn",
+  "egregdoesnotlikesansseriftitles"
+  ]
+geometry: |
+    left=0.375in,
+    right=0.375in,
+    top=0.375in,
+    bottom=0.375in,
+    foot=0.25in,
+    includefoot,
+    heightrounded
+---

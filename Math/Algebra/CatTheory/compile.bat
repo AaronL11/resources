@@ -1,0 +1,1 @@
+pandoc meta.yaml -o CategoryTheory.pdf

@@ -1,0 +1,1 @@
+pandoc meta.yaml set.md algebra.md logic.md -o Symbols.pdf

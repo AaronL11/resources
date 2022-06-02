@@ -34,5 +34,3 @@
 ### Complements
 
 ### Cartesian Product
-
-## 
